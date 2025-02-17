@@ -1,0 +1,63 @@
+### Get all celestial_bodies
+
+GET localhost:8084/api/celestial_bodies
+
+### Get single celestial_body
+
+GET http://localhost:8084/api/celestial_bodies/f8594c79-1907-4ea1-96db-dae64ad903d4
+
+### Get single celestial_body, not existing
+
+GET http://localhost:8084/api/celestial_bodies/0a36b7d5-c1a5-45a0-8eb5-83c1f3decb4d
+
+### Get ast_types
+GET http://localhost:8084/api/ast_types
+
+### Get single ast_type
+GET http://localhost:8084/api/ast_types/f5875513-bf7b-4ae1-b8a5-5b70a1b90e76
+
+### Get ast_type celestial_bodies, not existing
+GET http://localhost:8084/api/ast_types/ac4e2683-b2ba-4695-94d9-806a97fce71e/celestial_bodies
+
+### Create new celestial_body
+
+PUT http://localhost:8084/api/celestial_bodies/3c6f1eb1-8069-44ab-988f-d7fed2b65d87
+Content-Type: application/json
+Authorization: Basic a2V2aW46dXNlcnVzZXI=
+
+{
+  "name": "Venus",
+  "radius": 1234,
+  "astType": "f5875513-bf7b-4ae1-b8a5-5b70a1b90e76"
+}
+
+### Delete celestial_body.
+
+DELETE http://localhost:8084/api/celestial_bodies/3c6f1eb1-8069-44ab-988f-d7fed2b65d87
+
+### Get all ast_types
+
+GET http://localhost:8084/api/ast_types
+
+
+### Get single ast_type, not existing
+
+GET http://localhost:8084/api/ast_types/ac4e2683-b2ba-4695-94d9-806a97fce71e
+
+### Delete ast_type
+
+DELETE http://localhost:8084/api/ast_types/f5875513-bf7b-4ae1-b8a5-5b70a1b90e76
+
+###
+PUT http://localhost:8084/api/ast_types/4x6f1eb1-8069-44ab-988f-d7fed2b65d87
+Content-Type: application/json
+Authorization: Basic a2V2aW46dXNlcnVzZXI=
+
+{
+  "name": "Black Holes",
+  "avg_size": "100000"
+}
+
+###
+GET http://localhost:8084/api/ast_types/f5875513-bf7b-4ae1-b8a5-5b70a1b90e76/celestial_bodies
+

@@ -1,0 +1,8 @@
+GET http://localhost:8081/api/celestial_bodies
+####
+DELETE http://localhost:8082/api/ast_types/f5875513-bf7b-4ae1-b8a5-5b70a1b90e76
+####
+GET http://localhost:8082/api/ast_types/f5875513-bf7b-4ae1-b8a5-5b70a1b90e76
+
+###
+GET http://localhost:8081/api/ast_types/f5875513-bf7b-4ae1-b8a5-5b70a1b90e76/celestial_bodies

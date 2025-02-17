@@ -1,0 +1,20 @@
+{
+  "celestialBodies": [
+    {
+      "id": "0a36b7d5-c1a5-45a0-8eb5-83c1f3decb3f",
+      "name": "Earth"
+    },
+    {
+      "id": "f8594c79-1907-4ea1-96db-dae64ad903d4",
+      "name": "Mars"
+    },
+    {
+      "id": "f5cb6cb2-c3a2-4a19-8d80-2e4ef6c5b3c1",
+      "name": "Sun"
+    },
+    {
+      "id": "33edfeaa-282b-4a9f-9aa3-18b09eef29b0",
+      "name": "Deimos"
+    }
+  ]
+}

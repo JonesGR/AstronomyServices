@@ -1,0 +1,20 @@
+{
+  "astTypes": [
+    {
+      "id": "f5875513-bf7b-4ae1-b8a5-5b70a1b90e76",
+      "name": "Planets"
+    },
+    {
+      "id": "5d1da2ae-6a14-4b6d-8b4f-d117867118d4",
+      "name": "Stars"
+    },
+    {
+      "id": "2d9b1e8c-67c5-4188-a911-5f064a63d8cd",
+      "name": "Moons"
+    },
+    {
+      "id": "62cbc34b-a5a9-4799-82b6-1cae77fb8c8e",
+      "name": "Asteroids"
+    }
+  ]
+}

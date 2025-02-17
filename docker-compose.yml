@@ -1,0 +1,29 @@
+version: '3'
+
+services:
+  astronomy-celestial-body:
+    image: astronomy-celestial-body
+    restart: always
+
+  astronomy-ast-type:
+    image: astronomy-ast-type
+    restart: always
+    environment:
+      AST_CELESTIAL_URL: "http://astronomy-celestial-body:8080"
+
+  astronomy-gateway:
+    image: astronomy-gateway
+    restart: always
+    environment:
+      AST_CELESTIAL_URL: "http://astronomy-celestial-body:8080"
+      AST_ASTTYPE_URL: "http://astronomy-ast-type:8080"
+      AST_GATEWAY_HOST: "astronomy-gateway:8080"
+
+  astronomy-ng:
+    image: astronomy-ng
+    restart: always
+    environment:
+      API_URL: http://astronomy-gateway:8080/api
+    ports:
+      - "8087:80"
+

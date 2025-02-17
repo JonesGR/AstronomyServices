@@ -1,0 +1,12 @@
+{
+  "celestialBodies": [
+    {
+      "id": "0a36b7d5-c1a5-45a0-8eb5-83c1f3decb3f",
+      "name": "Earth"
+    },
+    {
+      "id": "6aa25c8e-d3d8-4dd2-ad4b-9880fa511333",
+      "name": "Mars"
+    }
+  ]
+}

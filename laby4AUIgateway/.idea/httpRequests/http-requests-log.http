@@ -1,0 +1,405 @@
+GET http://localhost:8084/api/ast_types/f5875513-bf7b-4ae1-b8a5-5b70a1b90e76/celestial_bodies
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2024.3.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+<> 2025-01-13T114213.200.json
+
+###
+
+GET http://localhost:8084/api/ast_types/2d9b1e8c-67c5-4188-a911-5f064a63d8cd/celestial_bodies
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2024.3.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+<> 2025-01-13T114206.200.json
+
+###
+
+GET http://localhost:8084/api/ast_types
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2024.3.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+<> 2025-01-13T114150.200.json
+
+###
+
+GET http://localhost:8084/api/ast_types/f5875513-bf7b-4ae1-b8a5-5b70a1b90e76/celestial_bodies
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2024.3.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+<> 2025-01-13T114142.200.json
+
+###
+
+GET http://localhost:8084/api/ast_types/f5875513-bf7b-4ae1-b8a5-5b70a1b90e76/celestial_bodies
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2024.3.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+<> 2025-01-13T113802.404.json
+
+###
+
+GET http://localhost:8084/api/ast_types/f5875513-bf7b-4ae1-b8a5-5b70a1b90e76/celestial_bodies
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2024.3.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+<> 2025-01-13T113709.404.json
+
+###
+
+GET http://localhost:8084/api/ast_types/f5875513-bf7b-4ae1-b8a5-5b70a1b90e76/celestial_bodies
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2024.3.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+<> 2025-01-13T113707.404.json
+
+###
+
+GET http://localhost:8084/api/ast_types/f5875513-bf7b-4ae1-b8a5-5b70a1b90e75/celestial_bodies
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2024.3.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+<> 2025-01-13T113006.404.json
+
+###
+
+GET http://localhost:8084/api/ast_types/f5875513-bf7b-4ae1-b8a5-5b70a1b90e75/celestial_bodies
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2024.3.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+<> 2025-01-13T113005.404.json
+
+###
+
+GET http://localhost:8084/api/ast_types/f5875513-bf7b-4ae1-b8a5-5b70a1b90e76/celestial_bodies
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2024.3.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+<> 2025-01-13T112951.404.json
+
+###
+
+GET http://localhost:8084/api/ast_types
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2024.3.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+<> 2025-01-13T110146.200.json
+
+###
+
+GET http://localhost:8084/api/celestial_bodies/f8594c79-1907-4ea1-96db-dae64ad903d4
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2024.3.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+<> 2025-01-13T110131.404.json
+
+###
+
+GET http://localhost:8084/api/celestial_bodies
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2024.3.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+<> 2025-01-13T110128.200.json
+
+###
+
+GET http://localhost:8084/api/ast_types/f5875513-bf7b-4ae1-b8a5-5b70a1b90e76
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2024.3.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+<> 2025-01-12T163442.200.json
+
+###
+
+GET http://localhost:8084/api/ast_types
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2024.3.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+<> 2025-01-12T163440.200.json
+
+###
+
+GET http://localhost:8084/api/celestial_bodies/f8594c79-1907-4ea1-96db-dae64ad903d4
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2024.3.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+<> 2025-01-12T163254.200.json
+
+###
+
+GET http://localhost:8084/api/celestial_bodies
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2024.3.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+<> 2025-01-12T163241.200.json
+
+###
+
+GET http://localhost:8084/api/celestial_bodies/0a36b7d5-c1a5-45a0-8eb5-83c1f3decb3f
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2024.3.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+<> 2025-01-12T163205.200.json
+
+###
+
+GET http://localhost:8084/api/ast_types/f5875513-bf7b-4ae1-b8a5-5b70a1b90e76
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2024.3.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+<> 2025-01-12T163156.200.json
+
+###
+
+GET http://localhost:8084/api/ast_types
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2024.3.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+<> 2025-01-12T163127.200.json
+
+###
+
+GET http://localhost:8084/api/celestial_bodies/0a36b7d5-c1a5-45a0-8eb5-83c1f3decb3f
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2024.3.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+<> 2025-01-12T163112.200.json
+
+###
+
+GET http://localhost:8084/api/ast_types/f5875513-bf7b-4ae1-b8a5-5b70a1b90e76
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2024.3.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+<> 2025-01-12T162804.200.json
+
+###
+
+GET http://localhost:8084/api/ast_types
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2024.3.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+<> 2025-01-12T162744.200.json
+
+###
+
+GET http://localhost:8084/api/celestial_bodies/0a36b7d5-c1a5-45a0-8eb5-83c1f3decb3f
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2024.3.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+<> 2025-01-12T162727.200.json
+
+###
+
+GET http://localhost:8084/api/celestial_bodies/0a36b7d5-c1a5-45a0-8eb5-83c1f3decb4d
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2024.3.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+<> 2025-01-12T162724.404.json
+
+###
+
+GET http://localhost:8084/api/celestial_bodies
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2024.3.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+<> 2025-01-12T162714.200.json
+
+###
+
+GET http://localhost:8084/api/ast_types
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2024.3.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+<> 2025-01-12T162653.200.json
+
+###
+
+GET http://localhost:8084/api/celestial_bodies/0a36b7d5-c1a5-45a0-8eb5-83c1f3decb3f
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2024.3.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+<> 2025-01-12T162642.200.json
+
+###
+
+GET http://localhost:8084/api/ast_types
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2024.3.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+<> 2025-01-11T162127.200.json
+
+###
+
+GET http://localhost:8084/api/celestial_bodies/0a36b7d5-c1a5-45a0-8eb5-83c1f3decb3f
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2024.3.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+<> 2024-12-11T102935.200.json
+
+###
+
+GET http://localhost:8084/api/ast_types
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2024.3.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+<> 2024-12-11T102929.200.json
+
+###
+
+GET http://localhost:8084/api/ast_types
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2024.3.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+<> 2024-12-11T102706.200.json
+
+###
+
+GET http://localhost:8084/api/ast_types
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2024.3.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+<> 2024-12-11T022811.200.json
+
+###
+
+GET http://localhost:8084/api/ast_types
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2024.3.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+<> 2024-12-11T022754.200.json
+
+###
+
+GET http://localhost:8084/api/celestial_bodies/0a36b7d5-c1a5-45a0-8eb5-83c1f3decb3f
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2024.3.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+<> 2024-12-11T022749.200.json
+
+###
+
+GET http://localhost:8084/api/celestial_bodies/0a36b7d5-c1a5-45a0-8eb5-83c1f3decb4d
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2024.3.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+<> 2024-12-11T022746.404.json
+
+###
+
+GET http://localhost:8084/api/ast_types
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2024.3.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+<> 2024-12-11T022602.200.json
+
+###
+
+GET http://localhost:8084/api/ast_types
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2024.3.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+<> 2024-12-11T022557.200.json
+
+###
+
+GET http://localhost:8084/api/ast_types
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2024.3.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+<> 2024-12-11T022548.200.json
+
+###
+
+GET http://localhost:8084/api/ast_types
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2024.3.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+<> 2024-12-11T022536.200.json
+
+###
+
+GET http://localhost:8084/api/ast_types
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2024.3.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+<> 2024-12-11T022527.200.json
+
+###
+
+GET http://localhost:8084/api/celestial_bodies/0a36b7d5-c1a5-45a0-8eb5-83c1f3decb3f
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2024.3.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+<> 2024-12-11T022522.200.json
+
+###
+
+GET http://localhost:8084/api/ast_types
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2024.3.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+<> 2024-12-11T014018.200.json
+
+###
+
+GET http://localhost:8084/api/celestial_bodies
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2024.3.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+<> 2024-12-11T012013.200.json
+
+###
+
+GET http://localhost:8084/api/celestial_bodies
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2024.3.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+<> 2024-12-11T005529.200.json
+
+###
+

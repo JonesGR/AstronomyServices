@@ -1,0 +1,26 @@
+GET http://localhost:8081/api/ast_types
+###
+GET http://localhost:8080/api/ast_types/99b40254-7874-4087-85cb-5a360be0b65a
+###
+GET http://localhost:8080/api/ast_types/99b40254-7874-4087-85cb-5a360be0b657
+###
+GET http://localhost:8080/api/celestial_bodies
+###
+GET http://localhost:8080/api/celestial_bodies/0a36b7d5-c1a5-45a0-8eb5-83c1f3decb3f
+###
+GET http://localhost:8080/api/celestial_bodies/0a36b7d5-c1a5-45a0-8eb5-83c1f3decb3e
+###
+PUT http://localhost:8080/api/celestial_bodies/0a36b7d5-c1a5-45a0-8eb5-83c1f3dec333
+Content-Type: application/json
+
+{
+  "name": "Venus",
+  "radius": 1234,
+  "astType": "99b40254-7874-4087-85cb-5a360be0b65a"
+}
+###
+DELETE http://localhost:8080/api/celestial_bodies/0a36b7d5-c1a5-45a0-8eb5-83c1f3dec333
+###
+DELETE http://localhost:8080/api/celestial_bodies/0a36b7d5-c1a5-45a0-8eb5-83c1f3dec666
+###
+DELETE http://localhost:8080/api/ast_types/99b40254-7874-4087-85cb-5a360be0b65a
