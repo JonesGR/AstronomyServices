@@ -1,0 +1,30 @@
+<article class="text--justified">
+  <header><h2>Celestial Bodies</h2></header>
+
+  <table *ngIf="celestialBodies">
+    <thead>
+    <tr>
+      <th>Name</th>
+      <th>View</th>
+      <th>Edit</th>
+      <th>Delete</th>
+    </tr>
+    </thead>
+    <tbody>
+    <tr *ngFor="let celestialBody of celestialBodies.celestialBodies">
+      <td>{{celestialBody.name}}</td>
+      <td>
+        <a [routerLink]="['/celestial_bodies', celestialBody.id]">View</a>
+      </td>
+      <td>
+        <a [routerLink]="['/celestial_bodies', celestialBody.id, 'edit']">Edit</a>
+      </td>
+      <td>
+        <button (click)="onDelete(celestialBody)">Delete</button>
+      </td>
+    </tr>
+    </tbody>
+  </table>
+  <button [routerLink]="'/celestial_bodies/new'">Add new</button>
+
+</article>

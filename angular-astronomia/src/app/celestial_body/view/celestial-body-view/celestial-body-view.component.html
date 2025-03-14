@@ -1,0 +1,22 @@
+<article *ngIf="celestialBody">
+  <header><h2>View Celestial Body</h2></header>
+
+  <div class="row">
+    <div class="col-4 p-2">
+      <div>
+        <label>Name:</label>
+        <span>{{ celestialBody.name }}</span>
+      </div>
+    </div>
+  </div>
+
+  <div class="row">
+    <div class="col-4 p-2">
+      <div>
+        <label>Average Size:</label>
+        <span>{{ celestialBody.radius }}</span>
+      </div>
+    </div>
+  </div>
+
+</article>

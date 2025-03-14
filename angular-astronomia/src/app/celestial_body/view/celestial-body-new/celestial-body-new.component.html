@@ -1,0 +1,20 @@
+<form [formGroup]="celestialBodyForm" (ngSubmit)="onSubmit()">
+
+  <div>
+    <label for="name">Name:</label>
+    <input id="name" formControlName="name" required>
+  </div>
+
+  <div>
+    <label for="radius">Radius:</label>
+    <input id="radius" formControlName="radius" required>
+  </div>
+
+  <div>
+    <label for="astType">AstType:</label>
+    <input id="astType" formControlName="astType" required>
+  </div>
+
+
+  <button type="submit" [disabled]="celestialBodyForm.invalid">Add CelestialBody</button>
+</form>

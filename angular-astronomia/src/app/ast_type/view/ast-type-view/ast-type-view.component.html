@@ -1,0 +1,49 @@
+<article *ngIf="astType">
+  <header><h2>View AstType</h2></header>
+
+  <div class="row">
+    <div class="col-4 p-2">
+      <div>
+        <label>Name:</label>
+        <span>{{ astType.name }}</span>
+      </div>
+    </div>
+  </div>
+
+  <div class="row">
+    <div class="col-4 p-2">
+      <div>
+        <label>Average Size:</label>
+        <span>{{ astType.avgSize }}</span>
+      </div>
+    </div>
+  </div>
+
+</article>
+
+<table *ngIf="celestialBodies">
+  <thead>
+  <tr>
+    <th>Name</th>
+    <th>View</th>
+    <th>Edit</th>
+    <th>Delete</th>
+  </tr>
+  </thead>
+  <tbody>
+  <tr *ngFor="let celestialBody of celestialBodies.celestialBodies">
+    <td>{{celestialBody.name}}</td>
+    <td>
+      <a [routerLink]="['/celestial_bodies', celestialBody.id]">View</a>
+    </td>
+    <td>
+      <a [routerLink]="['/celestial_bodies', celestialBody.id, 'edit']">Edit</a>
+    </td>
+          <td>
+            <button (click)="onDelete(celestialBody)">Delete</button>
+          </td>
+  </tr>
+  </tbody>
+</table>
+<button [routerLink]="['/ast_types', uuid, 'new']" *ngIf="uuid">Add new</button>
+

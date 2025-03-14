@@ -1,0 +1,30 @@
+<article class="text--justified">
+  <header><h2>Astronomical Object Types</h2></header>
+
+  <table *ngIf="astTypes">
+    <thead>
+    <tr>
+      <th>Name</th>
+      <th>View</th>
+      <th>Edit</th>
+      <th>Delete</th>
+    </tr>
+    </thead>
+    <tbody>
+    <tr *ngFor="let astTYPE of astTypes.astTypes">
+      <td>{{astTYPE.name}}</td>
+      <td>
+        <a [routerLink]="['/ast_types', astTYPE.id]">View</a>
+      </td>
+      <td>
+        <a [routerLink]="['/ast_types', astTYPE.id, 'edit']">Edit</a>
+      </td>
+      <td>
+        <button (click)="onDelete(astTYPE)">Delete</button>
+      </td>
+    </tr>
+    </tbody>
+  </table>
+  <button [routerLink]="'/ast_types/new'">Add new</button>
+
+</article>
