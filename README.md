@@ -27,8 +27,6 @@ Aby aplikacja działała poprawnie, wymagane są następujące wersje oprogramow
 - **Angular CLI** 16  
 - **Node.js** 18  
 
-> ⚠ **Uwaga:** Działanie na innych wersjach nie jest gwarantowane!  
-
 ## 🖥 Podgląd aplikacji  
 
 Aplikacja będzie dostępna pod adresem:  
